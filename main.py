@@ -22,7 +22,7 @@ except:
     quit()
 
 if index < 0 or index > len(memes) - 1:
-    print("Тфкого шаблона нет!")
+    print("Тaкого шаблона нет!")
     quit()
 
 
